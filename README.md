@@ -21,6 +21,8 @@
 #### **📌 Step 3: Data Visualization**
 
 ##### **1️⃣ Python Libraries**
+- **NumPy** – Core numerical computing (arrays, math operations)  
+- **pandas** – Data manipulation and analysis (DataFrames)  
 - **Matplotlib** – Basic 2D charts: line, bar, scatter, histogram  
 - **Seaborn** – Statistical visualizations: heatmaps, violin plots  
 - **Plotly** – Interactive and web-based graphs  
@@ -45,6 +47,11 @@
 ---
 
 #### **📌 Step 4: Machine Learning**
+
+##### **Key Python Library**
+- **Scikit-learn (sklearn)** – Core ML library for classification, regression, clustering, and preprocessing
+
+##### **Learning Types**
 - **Supervised Learning**  
 - **Unsupervised Learning**  
 - **Semi-Supervised Learning**  
@@ -59,6 +66,8 @@
 - **Business Analyst**  
 - **Business Development Analyst**  
 - **Machine Learning Engineer**
+
+---
 
 ---
 
